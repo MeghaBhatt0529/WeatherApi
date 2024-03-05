@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+  margin: 0;
+  justify-content: center;
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: 2050px 920px;
+  /* background-image: url("https://media.istockphoto.com/id/472274463/vector/a-cartoon-image-of-a-sunny-meadow.jpg?s=612x612&w=0&k=20&c=hzxTXMg6WwbKW0LoyB7wjF45GkiSyx0G1M396Qbh2PM=") */
+  background-image: url("https://images.pexels.com/photos/288100/pexels-photo-288100.jpeg?auto=compress&cs=tinysrgb&w=600");
+
+}
